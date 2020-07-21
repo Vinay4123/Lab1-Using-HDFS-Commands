@@ -134,7 +134,7 @@ blocksize of 1,048,576 bytes.
 * Answer: The file should be broken down into two blocks. 
 ![image](https://user-images.githubusercontent.com/63589909/85547799-e0db1000-b63b-11ea-957a-581bc76662ed.png)
 
-11. Replitaion Factor
+11. Replitaion Factor 
 
 ![image](https://user-images.githubusercontent.com/63589909/88027661-36301180-cb55-11ea-86db-87bf17849211.png)
 
